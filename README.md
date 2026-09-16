@@ -1,6 +1,7 @@
 # modular-colourblind-camera
 A custom Linux-based modular camera system including precision-toleranced 3D printed mechanics, swappable vintage optics, and real-time OpenCV Daltonisation pipeline designed for colourblind accessibility. 
 
+```mermaid
 gantt
     title Engineering Development Schedule
     dateFormat YYYY-MM-DD
@@ -24,3 +25,4 @@ gantt
     section Phase 4: Portfolio
     Aesthetic Trim & Video    :2026-09-23, 1d
     Job Pack & Docs           :2026-09-24, 1d
+```

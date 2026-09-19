@@ -8,9 +8,9 @@ gantt
     axisFormat %m/%d
     
     section Phase 1: Benchtop MVP
-    OS, DSI LCD & Boot        :done, 2026-09-14, 1d
-    Daltonization Math        :done, 2026-09-15, 1d
-    GPIO Hardware & Wi-Fi     :active, 2026-09-16, 1d
+    OS, DSI LCD & Boot        :done, 2026-09-19, 0.5d
+    Daltonization Math        :done, 2026-09-19, 0.5d
+    GPIO Hardware & Wi-Fi     :active, 2026-09-19, 0.5d
     
     section Phase 2: CAD & DFM
     Optical Sled & FFD        :2026-09-17, 1d

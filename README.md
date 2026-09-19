@@ -9,7 +9,7 @@ gantt
     
     section Phase 1: Benchtop MVP
     OS, DSI LCD & Boot        :done, 2026-09-19, 0.5d
-    Daltonization Math        :done, 2026-09-19, 0.5d
+    Daltonization Math        :active, 2026-09-19, 0.5d
     GPIO Hardware & Wi-Fi     :active, 2026-09-19, 0.5d
     
     section Phase 2: CAD & DFM
